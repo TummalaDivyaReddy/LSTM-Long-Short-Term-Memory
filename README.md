@@ -1,7 +1,6 @@
 # LSTM
 
 Source Code: [LSTM](LSTM.ipynb)
-Output: [LSTM-OUTPUT](Screenshot 2023-07-31 144315.png)
 
 LSTM (Long Short-Term Memory) is a type of recurrent neural network (RNN) that is specifically designed to handle long-term dependencies. RNNs are a type of neural network that can process sequential data, such as text or speech. However, RNNs can have difficulty learning long-term dependencies, which are important for tasks such as machine translation and sentiment analysis.
 
